@@ -4,8 +4,6 @@
 
 # Teslo Shop - E-commerce API
 
-# Teslo Shop - E-commerce API
-
 > **Note**: This is a practice project built for learning purposes.
 
 A robust RESTful API built with NestJS for managing an e-commerce platform. This project includes authentication, product management, file uploads, WebSocket real-time communication, and more.
