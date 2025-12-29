@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
+</p>
+
 # Teslo Shop - E-commerce API
 
 A robust RESTful API built with NestJS for managing an e-commerce platform. This project includes authentication, product management, file uploads, WebSocket real-time communication, and more.
