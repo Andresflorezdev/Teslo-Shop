@@ -178,11 +178,3 @@ JWT_SECRET=your_jwt_secret
 PORT=3000
 HOST_API=http://localhost:3000/api
 ```
-
-## 👤 Author
-
-Andrés Flórez
-
-## 📝 License
-
-This project is [UNLICENSED](LICENSE).
